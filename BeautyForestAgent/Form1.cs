@@ -15,5 +15,10 @@ namespace BeautyForestAgent
         {
             InitializeComponent();
         }
+
+        private void 폼보이기ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
